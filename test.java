@@ -21,6 +21,11 @@ public class test {
 
         else
         System.out.println(c + " is greatest!");
+
+        //average of a b c
+    int avg = (a + b + c)/3;
+    System.out.println("Average of " +a+ " " +b+ " and " +c+ " is : " + avg); 
+    
     }
 
 }
